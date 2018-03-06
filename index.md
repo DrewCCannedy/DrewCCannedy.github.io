@@ -10,7 +10,7 @@ I'll be posting all of my projects and hopefully some game samples here.
 Maybe some code samples later 
 ```
 
-For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
+For more projects see [My Github](https://github.com/DrewCCannedy/).
 
 ### Contact
 
