@@ -1,4 +1,4 @@
-## Welcome to Drew Cannedy's GitHub Site
+## About Me
 
 I am a Software Engineering Junior at the University of Texas at Dallas, and an ametuer game designer/software developer. 
 
