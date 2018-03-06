@@ -1,37 +1,20 @@
-## Welcome to GitHub Pages
+## Welcome to Drew Cannedy's GitHub Site
 
-You can use the [editor on GitHub](https://github.com/DrewCCannedy/DrewCCannedyy.github.io/edit/master/index.md) to maintain and preview the content for your website in Markdown files.
+I am a Software Engineering Junior at the University of Texas at Dallas, and an ametuer game designer/software developer. 
 
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
+I'll be posting all of my projects and hopefully some game samples here.
 
-### Markdown
-
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
+### Future Projects Section (Under Contstruction)
 
 ```markdown
-Syntax highlighted code block
-
-# Header 1
-## Header 2
-### Header 3
-
-- Bulleted
-- List
-
-1. Numbered
-2. List
-
-**Bold** and _Italic_ and `Code` text
-
-[Link](url) and ![Image](src)
+Maybe some code samples later 
 ```
 
 For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
 
-### Jekyll Themes
+### Contact
 
-Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/DrewCCannedy/DrewCCannedyy.github.io/settings). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
+Shoot me an email at drew.cannedy@utdallas.edu if you have a project you'd like to collaborate on.
 
-### Support or Contact
-
-Having trouble with Pages? Check out our [documentation](https://help.github.com/categories/github-pages-basics/) or [contact support](https://github.com/contact) and we’ll help you sort it out.
+Code on,
+      Drew
