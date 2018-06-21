@@ -4,7 +4,7 @@ I am a Software Engineering Senior at the **University of Texas at Dallas**, and
 I also enjoy making music, gaming with friends, and taking my girlfriend out on cute dates. 
 
 
-### Projects
+## Projects
 
 ```markdown
 while not employed:
@@ -16,9 +16,8 @@ while not employed:
 
 For my projects see [My Github](https://github.com/DrewCCannedy/).
 
-### Contact
+## Contact
 
 Shoot me an email at drew.cannedy@utdallas.edu if you have a project you'd like to collaborate on.
 
-Happy Hacking,
-             Drew
+Happy Hacking, Drew
