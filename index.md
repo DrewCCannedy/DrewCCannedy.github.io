@@ -5,8 +5,8 @@ I also enjoy making music, gaming with friends, and taking my girlfriend out on 
 
 
 # Projects
-
-## Eternal Descent
+<br><br>
+### Eternal Descent
 ![Eternal-Descent Picture](Eternal-Descent.png)<br><br>
 A 2D Hack-n-Slash made in Gamemaker2 with a few friends for a game jam. <br>
 We like to refer to ourselves as *The Wranglers*. <br>
@@ -26,6 +26,6 @@ For my projects see [My Github](https://github.com/DrewCCannedy/).
 
 Shoot me an email at <a href="mailto:drew.cannedy@utdallas.edu">drew.cannedy@utdallas.edu</a> if you have a project you'd like to collaborate on.
 
-Follow me on<a href="https://twitter.com/DrewCCannedy">Twitter</a> and <a href="https://www.instagram.com/drewccannedy/">Instagram.
+Follow me on <a href="https://twitter.com/DrewCCannedy">Twitter</a> and <a href="https://www.instagram.com/drewccannedy/">Instagram.
 
 Happy Hacking, **Drew**
