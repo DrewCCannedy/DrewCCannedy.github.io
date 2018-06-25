@@ -12,12 +12,12 @@ A 2D Hack-n-Slash made in Gamemaker2 with a few friends for a game jam. <br>
 We like to refer to ourselves as *The Wranglers*. <br>
 You can download a copy of the game [here](Eternal-Descent.zip)<br><br>
 
-```markdown
+```python
 while not employed:
     project = createNewProject(hoursAvailable)
     employed = showEmployerProject(project)
     if not employed:
-        print("*cry noises*")
+        print("**cry noises**")
 ```
 
 For my projects see [My Github](https://github.com/DrewCCannedy/).
