@@ -5,7 +5,7 @@ I also enjoy making music, gaming with friends, and taking my girlfriend out on 
 
 
 # Projects
-<br><br>
+<br>
 ### Eternal Descent
 ![Eternal-Descent Picture](Eternal-Descent.png)<br><br>
 A 2D Hack-n-Slash made in Gamemaker2 with a few friends for a game jam. <br>
