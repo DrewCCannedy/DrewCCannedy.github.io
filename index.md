@@ -7,9 +7,10 @@ I also enjoy making music, gaming with friends, and taking my girlfriend out on 
 ## Projects
 
 ### Eternal Descent
+![Eternal-Descent Picture](Eternal-Descent.png)
 A 2D Hack-n-Slash made in Gamemaker2 with a few friends for a game jam. <br>
 We like to refer to ourselves as *The Wranglers*. <br>
-You can download a copy of the game [Eternal-Descent](Eternal-Descent.zip "here")<br>
+You can download a copy of the game [here](Eternal-Descent.zip)<br>
 
 ```markdown
 while not employed:
