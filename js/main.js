@@ -36,6 +36,6 @@ $(document).ready(() => {
     }, () => {
       $("body").css("background", "#ffffff");
       $(".social").css("color", "##1aa3ff");
-      $("h1").css("color", "#000000");
+      $("h1").css("color", "#0");
     });
   });
