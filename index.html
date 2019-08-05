@@ -1,4 +1,3 @@
-<!-- Inspired by Thomas Hobsohm -->
 <!DOCTYPE html>
 <html>
 
@@ -7,25 +6,21 @@
     <title>Drew Cannedy</title>
     <!-- Style -->
     <link rel="stylesheet" type="text/css" href="main.css" />
-    <!-- jQuery -->
-    <script src="js/jquery-3.2.1.min.js"></script>
     <!-- Script -->
     <script src="js/main.js"></script>
     <!-- Google Font -->
-    <link href="https://fonts.googleapis.com/css?family=Questrial" rel="stylesheet">
+    <link href="https://fonts.googleapis.com/css?family=Alfa+Slab+One&display=swap" rel="stylesheet">
 </head>
 
 <body>
-    <div class="container">
-        <div class="wrapper">
-            <h1>Drew Cannedy</h1>
-            <div class="links">
-                <a href="https://github.com/DrewCCannedy"><h2 class="coding">coding</h2></a>
-                <a href="https://drewcannedy.bandcamp.com/"><h2 class="music">music</h2></a>
-                <a href="Eternal-Descent.zip"><h2 class="eternal-descent">eternal-descent</h2></a>
-                <a href="https://www.linkedin.com/in/drew-cannedy-87a6b6164/"><h2 class="social">social</h2></a>
-            </div>
+    <div id="container">
+        <h1>Drew Cannedy</h1>
+        <div id="selection">
+            <a onclick='changeSelection("projects")'><h2>projects</h2></a>
+            <a onclick='changeSelection("music")'><h2>music</h2></a>
+            <a onclick='changeSelection("social")'><h2>social</h2></a>
         </div>
+        <div id="links"></div>
     </div>
 </body>
 
