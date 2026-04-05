@@ -1,4 +1,3 @@
-// eslint-disable-next-line no-unused-vars
 const changeSelection = (selection) => {
   document.getElementById('links').remove()
 
@@ -43,3 +42,9 @@ const createLink = (content, href) => {
 
   return tempLink
 }
+
+document.querySelectorAll('#selection a').forEach((el) => {
+  el.addEventListener('click', () => {
+    changeSelection(el.dataset.section)
+  })
+})

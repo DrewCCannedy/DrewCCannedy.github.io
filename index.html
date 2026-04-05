@@ -7,7 +7,7 @@
     <!-- Style -->
     <link rel="stylesheet" type="text/css" href="css/main.css" />
     <!-- Script -->
-    <script src="js/main.js"></script>
+    <script type="module" src="js/main.js"></script>
     <!-- Google Font -->
     <link href="https://fonts.googleapis.com/css?family=Alfa+Slab+One&display=swap" rel="stylesheet">
     <!-- Favicon -->
@@ -19,9 +19,9 @@
     <div id="container">
         <h1>Drew Cannedy</h1>
         <div id="selection">
-            <a onclick='changeSelection("projects")'><h2>projects</h2></a>
-            <a onclick='changeSelection("music")'><h2>music</h2></a>
-            <a onclick='changeSelection("social")'><h2>social</h2></a>
+            <a data-section="projects"><h2>projects</h2></a>
+            <a data-section="music"><h2>music</h2></a>
+            <a data-section="social"><h2>social</h2></a>
         </div>
         <div id="links"></div>
     </div>
