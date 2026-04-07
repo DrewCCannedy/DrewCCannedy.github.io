@@ -17,6 +17,6 @@
   "homepage": "https://drewccannedy.github.io/",
   "devDependencies": {
     "eslint": "^9.0.0",
-    "vite": "^6.0.0"
+    "vite": "^6.4.2"
   }
 }
