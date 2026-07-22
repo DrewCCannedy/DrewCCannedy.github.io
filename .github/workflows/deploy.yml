@@ -28,12 +28,21 @@ jobs:
           token: ${{ secrets.DOOBY_ENGINE_TOKEN }}
           path: _dooby-engine
 
+      - name: Checkout tarkov-trading-card
+        uses: actions/checkout@v5
+        with:
+          repository: DrewCCannedy/tarkov-trading-card
+          token: ${{ secrets.DOOBY_ENGINE_TOKEN }}
+          path: _tarkov-trading-card
+
       - name: Setup Node
         uses: actions/setup-node@v5
         with:
           node-version: 22
           cache: npm
-          cache-dependency-path: _dooby-engine/package-lock.json
+          cache-dependency-path: |
+            _dooby-engine/package-lock.json
+            _tarkov-trading-card/package-lock.json
 
       - name: Build dooby-engine
         run: |
@@ -45,6 +54,17 @@ jobs:
         run: |
           mkdir -p dooby-engine
           cp -r _dooby-engine/dist/* dooby-engine/
+
+      - name: Build tarkov-trading-card
+        run: |
+          cd _tarkov-trading-card
+          npm ci
+          npm run build
+
+      - name: Copy tarkov-trading-card dist to site
+        run: |
+          mkdir -p tarkov-trading-card
+          cp -r _tarkov-trading-card/apps/web/dist/* tarkov-trading-card/
 
       - name: Setup Pages
         uses: actions/configure-pages@v6

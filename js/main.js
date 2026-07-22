@@ -10,6 +10,7 @@ const changeSelection = (selection) => {
     case 'projects':
       links.push(createLink('github', 'https://github.com/DrewCCannedy'))
       links.push(createLink('dooby-engine', 'dooby-engine/'))
+      links.push(createLink('tarkov-trading-card', 'tarkov-trading-card/'))
       links.push(createLink('eternal-descent', 'resources/Eternal-Descent.zip'))
       document.body.setAttribute('class', 'project')
       break
